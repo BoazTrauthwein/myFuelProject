@@ -6,7 +6,7 @@
 
 This project is part of the academic course: Engineering Methods for Software Systems Development.
 The project was developed by a team of 5 students.
-The project represents a system for gas stations management.
+It represents a system for gas stations management.
 The development of the software was done in client-server architecture,
 written in JAVA and uses MySQL DB.
 
